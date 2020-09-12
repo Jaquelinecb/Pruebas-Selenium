@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="391" started-at="2020-09-12T13:54:20Z" finished-at="2020-09-12T13:54:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="391" started-at="2020-09-12T13:54:20Z" finished-at="2020-09-12T13:54:21Z">
+      <class name="cursoselenium.selenium.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:cursoselenium.selenium.AppTest@1c852c0f]" name="shouldAnswerWithTrue" duration-ms="121" started-at="2020-09-12T08:54:21Z" finished-at="2020-09-12T08:54:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- cursoselenium.selenium.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
